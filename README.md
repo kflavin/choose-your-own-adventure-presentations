@@ -66,3 +66,5 @@ This project wouldn't have been possible without
 flask-socketio library and his detailed tutorials. A huge thank you to
 Miguel for his coding and writing.
 
+
+*test
